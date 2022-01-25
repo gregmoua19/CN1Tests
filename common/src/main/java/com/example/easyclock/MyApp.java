@@ -31,7 +31,7 @@ public class MyApp extends Lifecycle {
 }
 
 class Game extends Form implements Runnable{
-
+    //something
     @Override
     public void run() {
 
